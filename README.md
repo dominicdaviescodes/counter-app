@@ -10,7 +10,7 @@ go see it live! https://ddcodes-counter-app.netlify.app/
 
 Here's how I centered the container:
 
-![code showing how I centered the container](https://github.com/dominicdaviescodes/counter-app/git-image.jpg)
+![code showing how I centered the container](https://github.com/dominicdaviescodes/counter-app/blob/main/git-image.jpg)
 
 Here's the logic in v1.
 
