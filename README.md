@@ -8,6 +8,10 @@ go see it live! https://ddcodes-counter-app.netlify.app/
 * Click reset for counter to go to zero
 * fontawesome icons
 
+Here's how I centered the container:
+
+![code showing how I centered the container](https://github.com/dominicdaviescodes/counter-app/git-image.jpg)
+
 Here's the logic in v1.
 
 ```js
@@ -28,6 +32,7 @@ sub.addEventListener("click", () => {
   count.innerHTML--
 })
 ```
+
 ## version 2 - Event delegation
 there is a better way instead of adding multiple EventListener's. 
 
