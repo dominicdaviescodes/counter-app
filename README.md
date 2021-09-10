@@ -1,5 +1,7 @@
 # counter-app
 
+go see it live! https://ddcodes-counter-app.netlify.app/
+
 ## version 1
 * Click Add for counter to go up
 * Click Subtract for counter to go down
