@@ -6,3 +6,6 @@
 * negative numbers are red
 * positive numbers are yellow
 * reset/zero is white
+
+* fontawesome icons
+* 
